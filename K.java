@@ -31,4 +31,8 @@ public class K implements D {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }
