@@ -35,8 +35,11 @@ public class K extends null implements D {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+<<<<<<< HEAD
 
     public float ff() {
         return 0;
     }
+=======
+>>>>>>> b2
 }
