@@ -1,4 +1,4 @@
-public class K implements D {
+public class K extends null implements D {
 
     private String i = "test";
 
@@ -24,6 +24,10 @@ public class K implements D {
         return new java.util.LinkedList<Integer>;
     }
 
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
@@ -32,7 +36,23 @@ public class K implements D {
         return java.lang.Math.PI;
     }
 
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public Object gg() {
+        return new java.util.Random();
     }
 }
