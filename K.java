@@ -1,4 +1,4 @@
-public class K implements D {
+public class K extends null implements D {
 
     private String i = "test";
 
@@ -30,5 +30,13 @@ public class K implements D {
 
     public double ee() {
         return java.lang.Math.PI;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public float ff() {
+        return 0;
     }
 }
