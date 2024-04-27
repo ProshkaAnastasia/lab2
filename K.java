@@ -27,4 +27,8 @@ public class K implements D {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
