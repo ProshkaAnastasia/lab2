@@ -24,10 +24,13 @@ public class K extends null implements D {
         return new java.util.LinkedList<Integer>;
     }
 
+<<<<<<< HEAD
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
 
+=======
+>>>>>>> b1
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
@@ -36,6 +39,7 @@ public class K extends null implements D {
         return java.lang.Math.PI;
     }
 
+<<<<<<< HEAD
     public java.util.Random mm() {
         return new java.util.Random();
     }
@@ -55,4 +59,16 @@ public class K extends null implements D {
     public Object gg() {
         return new java.util.Random();
     }
+=======
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+<<<<<<< HEAD
+
+    public float ff() {
+        return 0;
+    }
+=======
+>>>>>>> b2
+>>>>>>> b1
 }
