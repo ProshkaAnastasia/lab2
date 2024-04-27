@@ -19,4 +19,8 @@ public class K implements D {
     public int ae() {
         return 9;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
